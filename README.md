@@ -46,6 +46,12 @@ Inspired by platforms like **Airbnb**, Haveno allows users to sign up, create pr
 
 ---
 
+### Deployment:
+- [Render](https://render.com)  
+- **Database**: MongoDB Atlas
+
+--- 
+
 ## 🚀 How to Use
 
 1. Sign up via `/signup` and log in.
